@@ -1,6 +1,5 @@
 import os
 import shutil
-import math
 from PIL import Image
 from PyQt5.QtGui import QFont, QColor
 from PyQt5.QtCore import Qt
